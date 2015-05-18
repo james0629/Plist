@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.28.162/KGKtv_enterprise/kugou.ipa</string>
+					<string>http://192.168.28.162/KGWatch/enterprise/kugou.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -22,8 +22,6 @@
 				<string>7.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>kugou</string>
 				<key>title</key>
 				<string>kugou</string>
 			</dict>

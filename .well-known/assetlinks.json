@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kugou.android.ktvapp",
+    "sha256_cert_fingerprints":
+    ["F4:08:BE:4B:BA:C9:CF:A1:64:6B:0B:FC:FB:22:4C:13:BC:2C:51:B9:06:8D:F8:30:B6:09:DC:AB:BC:78:59:B6"]
+  }
+}]
